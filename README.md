@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dylan Web Site 
 
 You can use the [editor on GitHub](https://github.com/Dylan-Brss-SIO2/Dylan-Brss-SIO2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Cours 1
+## TP 2
+### Controle 3
 
 - Bulleted
 - List
